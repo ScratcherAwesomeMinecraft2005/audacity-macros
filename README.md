@@ -1,10 +1,10 @@
 # Music Loudener
-Makes music tracks very loud with minimal distortion.
+Makes music tracks very loud with minimal distortion. In most cases the end result will be around -6 LUFS.
 
 # Versions
 
 ## Normal
-The normal version of the music loudener. May become obsolete in the future in favor of the midtones version.
+The normal version of the music loudener.
 **File name: Louden Music.txt**
 
 ## Midtones
