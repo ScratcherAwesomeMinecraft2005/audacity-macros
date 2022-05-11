@@ -2,7 +2,7 @@
 A reverb effect that increases the audio's speed slightly, causing a cool effect when applied more than once.
 
 # Requirements
-The basic version requires an effect that doesn't come with Audacity. [You can download it here.](old.audacityteam.org/nyquist/lpdelay.ny)
+The basic version requires an effect that doesn't come with Audacity. [You can download it here.](http://old.audacityteam.org/nyquist/lpdelay.ny)
 
 # Versions
 ## Basic
