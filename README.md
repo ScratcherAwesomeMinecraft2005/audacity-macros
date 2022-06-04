@@ -6,7 +6,8 @@ Makes music tracks very loud with minimal distortion. In most cases the end resu
 ## V2
 The remake of the macro. It will do a better job with more calm/ambient tracks (less distortion). Currently in beta.
 
-**File name (beta version 1): Louden Music v2 beta 1.txt**
+**File names:**
+- **Beta version 1: Louden Music v2 beta 1.txt**
 
 ## Normal
 The normal version of the music loudener.
