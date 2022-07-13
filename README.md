@@ -9,6 +9,7 @@ The remake of the macro. It will do a better job with more calm/ambient tracks (
 **File names:**
 - **Beta version 1: Louden Music v2 beta 1.txt**
 - **Beta version 2: Louden Music v2 beta 2.txt**
+- **Beta version 3: Louden Music v2 beta 3.txt**
 
 ## Normal
 The normal version of the music loudener.
