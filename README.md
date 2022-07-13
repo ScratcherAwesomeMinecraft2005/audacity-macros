@@ -27,6 +27,6 @@ An older version of the loudener that uses a 1 ms attack time soft limit instead
 **File name: Louden Music (Old Version).txt**
 
 ## Pre-Soft Clip
-The normal version of the music loudener that doesnt apply the soft clipper or any other effects after it. This can be used if the other versions cause too much distortion.
+The normal version of the music loudener that doesn't apply the soft clipper or any other effects after it. This can be used if the other versions cause too much distortion.
 
 **File name: Louden Music (Pre-Soft Clip).txt**
